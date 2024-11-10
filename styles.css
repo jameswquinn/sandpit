@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+.audio-player button, .art-gallery button {
+  padding: 8px;
+  border: none;
+  background-color: #333;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 4px;
+  margin: 5px;
+}
+
+.audio-player button:hover, .art-gallery button:hover {
+  background-color: #555;
+}
+
+.art-details {
+  margin-top: 10px;
+}
